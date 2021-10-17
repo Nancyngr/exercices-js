@@ -2,3 +2,8 @@
       - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
       - N'oubliez pas de sauvegarder pour afficher les changements.
 */
+let i = 3;
+
+while (i) {
+  alert( i-- );
+}

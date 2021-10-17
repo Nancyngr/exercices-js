@@ -11,7 +11,7 @@ Pour plus de lisibilité, il est recommandé de diviser le code en plusieurs lig
 ```js
 let message;
 
-if (login == 'Employee') {
+if (login == 'Employee') ?
   message = 'Hello';
 } else if (login == 'Director') {
   message = 'Greetings';
